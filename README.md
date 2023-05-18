@@ -20,19 +20,19 @@ This a Glass Identification Data Set taken from the UCI Machine Learning Reposit
 9. Ba: Barium
 10. Fe: Iron
 11. Type of glass: (class attribute)
--- 1 building_windows_float_processed
--- 2 building_windows_non_float_processed
--- 3 vehicle_windows_float_processed
--- 4 vehicle_windows_non_float_processed (none in this database)
--- 5 containers
--- 6 tableware
--- 7 headlamps
+    1) building_windows_float_processed
+    2) building_windows_non_float_processed
+    3) vehicle_windows_float_processed
+    4) vehicle_windows_non_float_processed (none in this database)
+    5) containers
+    6) tableware
+    7) headlamps
 
 ## Outline
 
 1) Importing and Preparing Data
--- Remove unneeded columns
--- Add column names
+*  Remove unneeded columns
+*  Add column names
 
 2) Data Visualization
 -- Univariative Plots ( Histogram, Box Plot)
