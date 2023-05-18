@@ -35,21 +35,21 @@ This a Glass Identification Data Set taken from the UCI Machine Learning Reposit
 *  Add column names
 
 2) Data Visualization
--- Univariative Plots ( Histogram, Box Plot)
--- Multivariative Plots ( Pair Plot, Correlation Plot ) 
+* Univariative Plots ( Histogram, Box Plot)
+* Multivariative Plots ( Pair Plot, Correlation Plot ) 
 3) Creating Train and Test Data
--- Normalizaion of Data
+* Normalizaion of Data
 4) Creating Predictive Models
--- K-Nearest Neighbors
--- Support Vector Classifier
--- Random Forest Classifier
--- Decision Tree Classifier
+* K-Nearest Neighbors
+* Support Vector Classifier
+* Random Forest Classifier
+* Decision Tree Classifier
 5) Creating SMOTE Train and Test Data
--- Using SMOTE for Oversampling, and recreating Train and Test Data.
+* Using SMOTE for Oversampling, and recreating Train and Test Data.
 6) Creating SMOTE Predictive Models
--- Recreating Models
+* Recreating Models
 7) Choosing the best Model
--- Using F1 SCORE and Cross Validation Means to choose the best model
+* Using F1 SCORE and Cross Validation Means to choose the best model
 
 ## Best Model
 The best performing model was Random Forest Classifier for both pre and post SMOTE models. RFC not only had a high F1 Score, but also a high Cross Validation Mean to support it.
