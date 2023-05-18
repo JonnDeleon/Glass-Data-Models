@@ -1,5 +1,7 @@
-# Glass-Data-Models
+# Glass Identification
 Creating predictive models on an imbalanced Glass Identification Data set. 
+The purpose of this project is to creative predictive models on an imbalanced dataset, and recreate them after Oversampling the data with SMOTE.
+Synthetic Minority Oversampling Technique ( SMOTE ), is a Oversamling technique that creates synthetic data for minor classes.
 
 ## Data Source
 https://archive.ics.uci.edu/ml/datasets/Glass+Identification
